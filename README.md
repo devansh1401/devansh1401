@@ -6,7 +6,7 @@
 ### <div align="center">I'm Devansh, a tech enthusiast  🚀 Currently learning and exploring new domains✨</div>  
   
 
-- 🌱 Getting hands on Open Source  
+- 🌱 Getting hands in Open Source  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
