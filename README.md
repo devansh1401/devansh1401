@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">🪄 On a journey to turn 0s and 1s into something meaningful!  </h3>
+<h3 align="center">🪄 Turning 0s and 1s into something meaningful!  </h3>
 
 </div>  
   
